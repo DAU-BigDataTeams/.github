@@ -20,7 +20,7 @@ Our goal is to:
 
 # Contact
 
-- [Team Homepage](https://dau-bigdatateams.github.io/)
+- [Team Homepage](https://bigdatateam.net/)
 - [Lead Homepage](https://jhpark.org)
 - Email : jhparkinglot@gmail.com
 ___
